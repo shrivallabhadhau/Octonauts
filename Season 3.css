@@ -1,0 +1,19 @@
+#heading{
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+
+
+#anchor{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#body{
+    background-color: aquamarine;
+    background-size: cover;
+}

@@ -1,0 +1,21 @@
+#hhh{
+    font-family: serif;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+body{
+    background-color: blueviolet;
+    background-size: contain;
+}
+
+#aa{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: larger;
+}
